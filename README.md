@@ -2,11 +2,11 @@ Sup fellas, I’m @JPratama7, I'm a student
 I love Programming, Algorithm, Logic
 I’m currently learning Politeknik POS Indonesia
 Contact Info :
-Telegram : @vvibunibos 
+Telegram : @vvivunibos 
 Instagram : @jose_pratama7
 Discord : ボイドの王#9965
 
-Currently Learning Github CI/CD, Open Build Service CI/CD, Python
+Currently Learning Github CI/CD, Python, Deno, TypeScript
 
 <!---
 JPratama7/JPratama7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
