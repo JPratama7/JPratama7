@@ -1,6 +1,9 @@
 Sup fellas, I’m @JPratama7, I'm a student
+
 I love Programming, Algorithm, Logic
+
 Currently studying at Logistics and Bussines International University
+
 Contact Info :
 Telegram : @josepratama 
 Instagram : @jose_pratama7
