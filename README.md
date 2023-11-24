@@ -7,7 +7,7 @@ Currently studying at Logistics and Bussines International University
 Contact Info :  
 Telegram : @josepratama  
 Instagram : @jose_pratama7  
-Discord : ボイドの王#9965  
+Discord : justmonarch
 
 Currently Learning Github Gitlab CI/CD, Python, Deno and NodeJS, TypeScript, Golang, Docker
 
