@@ -9,7 +9,7 @@ Telegram : @josepratama
 Instagram : @jose_pratama7  
 Discord : justmonarch
 
-Currently Learning Github Gitlab CI/CD, Python, Deno and NodeJS, TypeScript, Golang, Docker
+Currently Learning Github/Gitlab CI/CD, Python, Deno and NodeJS, TypeScript, Golang, Rust, Docker
 
 <!---
 JPratama7/JPratama7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
