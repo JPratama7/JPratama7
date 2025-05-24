@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin, Rust, Kotlin Multiplatform
+🌱 I’m currently learning Rust, Data Pipeline, Data Engineering
 
 
 ## 🌐 Socials:
